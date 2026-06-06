@@ -10,3 +10,6 @@ Command: `ping <target_ip>`
 
 Command: `nmap -Pn -sV <target_ip>`
 
+## Brute forcing common usernames on a service
+
+Command: `hydra -L <wordlist_path> -p "" <service_name>://<target_ip>`
