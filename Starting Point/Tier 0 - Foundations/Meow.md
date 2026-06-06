@@ -6,3 +6,7 @@ First machine on HTB. Very easy.
 
 Command: `ping <target_ip>`
 
+## Find open ports and services running on the target IP
+
+Command: `nmap -Pn -sV <target_ip>`
+
