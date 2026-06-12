@@ -12,6 +12,8 @@ All techniques demonstrated were performed in authorized environments. Do not at
 
 ## Starting Point
 
+### Tier 0 - Foundations
+
 | Machine  | Difficulty | Writeup                                                         |
 | -------- | ---------- | --------------------------------------------------------------- |
 | Meow     | Very Easy  | [View](Starting%20Point/Tier%200%20-%20Foundations/Meow.md)     |
@@ -21,7 +23,7 @@ All techniques demonstrated were performed in authorized environments. Do not at
 
 ---
 
-## Tier 1
+### Tier 1 - Fundamental Exploitation
 
 | Machine     | Difficulty | Writeup                                                                           |
 | ----------- | ---------- | --------------------------------------------------------------------------------- |
@@ -34,7 +36,7 @@ All techniques demonstrated were performed in authorized environments. Do not at
 
 ---
 
-## Tier 2
+### Tier 2 - Multi-Step Attacks and Privilege Escalation
 
 | Machine     | Difficulty | Writeup |
 | ----------- | ---------- | ------- |
