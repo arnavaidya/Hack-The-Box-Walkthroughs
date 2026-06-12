@@ -12,12 +12,13 @@ All techniques demonstrated were performed in authorized environments. Do not at
 
 ## Starting Point
 
-| Machine     | Difficulty | Writeup                               |
-| ----------- | ---------- | ------------------------------------- |
-| Meow        | Very Easy  | [View](Starting-Point/Meow.md)        |
-| Fawn        | Very Easy  | [View](Starting-Point/Fawn.md)        |
-| Dancing     | Very Easy  | [View](Starting-Point/Dancing.md)     |
-| Redeemer    | Very Easy  | [View](Starting-Point/Redeemer.md)    |
+| Machine     | Difficulty | Writeup                                 |
+| ----------- | ---------- | --------------------------------------- |
+| Meow        | Very Easy  | [View](Starting%20Point/Meow.md)        |
+| Fawn        | Very Easy  | [View](Starting%20Point/Fawn.md)        |
+| Dancing     | Very Easy  | [View](Starting%20Point/Dancing.md)     |
+| Redeemer    | Very Easy  | [View](Starting%20Point/Redeemer.md)    |
+
 
 ---
 
@@ -25,11 +26,11 @@ All techniques demonstrated were performed in authorized environments. Do not at
 
 | Machine     | Difficulty | Writeup                                 |
 | ----------- | ---------- | --------------------------------------- |
-| Apointment  | Very Easy  | [View](Starting-Point/Appointment.md)   |
-| Crocodile   | Very Easy  | [View](Starting-Point/Crocodile.md)     |
-| Responder   | Very Easy  | [View](Starting-Point/Responder.md)     |
-| Sequel      | Very Easy  | [View](Starting-Point/Sequel.md)        |
-| Three       | Very Easy  | [View](Starting-Point/Three.md)         |
+| Appointment | Very Easy  | [View](Starting%20Point/Appointment.md) |
+| Crocodile   | Very Easy  | [View](Starting%20Point/Crocodile.md)   |
+| Responder   | Very Easy  | [View](Starting%20Point/Responder.md)   |
+| Sequel      | Very Easy  | [View](Starting%20Point/Sequel.md)      |
+| Three       | Very Easy  | [View](Starting%20Point/Three.md)       |
 
 ---
 
