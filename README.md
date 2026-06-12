@@ -12,25 +12,25 @@ All techniques demonstrated were performed in authorized environments. Do not at
 
 ## Starting Point
 
-| Machine     | Difficulty | Writeup                                 |
-| ----------- | ---------- | --------------------------------------- |
-| Meow        | Very Easy  | [View](Starting%20Point/Meow.md)        |
-| Fawn        | Very Easy  | [View](Starting%20Point/Fawn.md)        |
-| Dancing     | Very Easy  | [View](Starting%20Point/Dancing.md)     |
-| Redeemer    | Very Easy  | [View](Starting%20Point/Redeemer.md)    |
-
+| Machine  | Difficulty | Writeup                                                         |
+| -------- | ---------- | --------------------------------------------------------------- |
+| Meow     | Very Easy  | [View](Starting%20Point/Tier%200%20-%20Foundations/Meow.md)     |
+| Fawn     | Very Easy  | [View](Starting%20Point/Tier%200%20-%20Foundations/Fawn.md)     |
+| Dancing  | Very Easy  | [View](Starting%20Point/Tier%200%20-%20Foundations/Dancing.md)  |
+| Redeemer | Very Easy  | [View](Starting%20Point/Tier%200%20-%20Foundations/Redeemer.md) |
 
 ---
 
 ## Tier 1
 
-| Machine     | Difficulty | Writeup                                 |
-| ----------- | ---------- | --------------------------------------- |
-| Appointment | Very Easy  | [View](Starting%20Point/Appointment.md) |
-| Crocodile   | Very Easy  | [View](Starting%20Point/Crocodile.md)   |
-| Responder   | Very Easy  | [View](Starting%20Point/Responder.md)   |
-| Sequel      | Very Easy  | [View](Starting%20Point/Sequel.md)      |
-| Three       | Very Easy  | [View](Starting%20Point/Three.md)       |
+| Machine     | Difficulty | Writeup                                                                           |
+| ----------- | ---------- | --------------------------------------------------------------------------------- |
+| Appointment | Very Easy  | [View](Starting%20Point/Tier%201%20-%20Fundamental%20Exploitation/Appointment.md) |
+| Crocodile   | Very Easy  | [View](Starting%20Point/Tier%201%20-%20Fundamental%20Exploitation/Crocodile.md)   |
+| Responder   | Very Easy  | [View](Starting%20Point/Tier%201%20-%20Fundamental%20Exploitation/Responder.md)   |
+| Sequel      | Very Easy  | [View](Starting%20Point/Tier%201%20-%20Fundamental%20Exploitation/Sequel.md)      |
+| Three       | Very Easy  | [View](Starting%20Point/Tier%201%20-%20Fundamental%20Exploitation/Three.md)       |
+
 
 ---
 
