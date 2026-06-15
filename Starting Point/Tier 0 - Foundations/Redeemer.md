@@ -1,29 +1,106 @@
 # Redeemer
 
-## Test Connection to target IP with an ICMP echo request
+This machine introduces basic enumeration and interaction with an exposed Redis database.
 
-Command: `ping <target_ip>`
+## Verify connectivity to the target
 
-## Find all open ports beyond the first 1000 on the target IP
+Send an ICMP echo request to confirm that the target is reachable.
 
-Command: `nmap -sS -p 1-10000 -sV -v <target_ip>`
+Command:
 
-## Specify Redis hostname
+```bash
+ping <target_ip>
+```
 
-Command: `redis-cli -h <target_ip>`
+## Find open ports and services running on the target IP
 
-## Obtain info and stats once connected to Redis server
+Scan a wider port range to identify services running beyond the default top 1000 ports.
 
-Command: `info`
+Command:
 
-## Select a DB from Redis server
+```bash
+nmap -sS -p 1-10000 -sV -v <target_ip>
+```
 
-Command: `select`
+Expected result:
 
-## Obtain all keys in the DB
+* Port 6379: Redis
 
-Command: `keys *`
+## Connect to the Redis server
 
-## Check out a key
+Use the Redis command-line interface to connect to the target.
 
-Command: `get <key_name>`
+Command:
+
+```bash
+redis-cli -h <target_ip>
+```
+
+A successful connection provides an interactive Redis shell.
+
+## Gather information about the Redis instance
+
+Display server information, statistics, and configuration details.
+
+Command:
+
+```bash
+info
+```
+
+Review the output for useful information such as:
+
+* Redis version
+* Number of databases
+* Number of stored keys
+* Server configuration
+
+## Select a database
+
+Redis stores data in logical databases identified by numbers.
+
+Select a database:
+
+```bash
+select <db_number>
+```
+
+For example:
+
+```bash
+select 0
+```
+
+## Enumerate available keys
+
+List all keys stored in the selected database.
+
+Command:
+
+```bash
+keys *
+```
+
+The output will reveal available key names.
+
+## Retrieve the contents of a key
+
+Read the value stored in a specific key.
+
+Command:
+
+```bash
+get <key_name>
+```
+
+For example:
+
+```bash
+get flag
+```
+
+The flag value will be displayed.
+
+## Key Takeaway
+
+Redis instances should never be exposed to untrusted networks without authentication. An unauthenticated Redis server can allow attackers to enumerate stored data and potentially gain access to sensitive information.
