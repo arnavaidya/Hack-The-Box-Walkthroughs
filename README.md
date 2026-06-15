@@ -41,6 +41,7 @@ All techniques demonstrated were performed in authorized environments. Do not at
 | Machine     | Difficulty | Writeup                                                                                      |
 | ----------- | ---------- | -------------------------------------------------------------------------------------------- |
 | Vaccine | Very Easy | [View](Starting%20Point/Tier%202%20-%20Multi-Step%20Attacks%20and%20Privilege%20Escalation/Vaccine.md) |
+| Oopsie | Very Easy | [View](Starting%20Point/Tier%202%20-%20Multi-Step%20Attacks%20and%20Privilege%20Escalation/Oopsie.md) |
 
 ---
 
