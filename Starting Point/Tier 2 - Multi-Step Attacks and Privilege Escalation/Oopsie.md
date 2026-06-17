@@ -320,8 +320,6 @@ bugtracker
 When the program attempts to run `cat`, it finds and executes our malicious version first, spawning a root shell.
 
 This technique is known as **PATH hijacking**, where an attacker abuses a program that invokes system commands without using absolute paths.
-
-
 ## Retrieve the root flag
 
 Verify privileges:
