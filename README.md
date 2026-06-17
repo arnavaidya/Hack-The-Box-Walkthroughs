@@ -43,6 +43,7 @@ All techniques demonstrated were performed in authorized environments. Do not at
 | Vaccine | Very Easy | [View](Starting%20Point/Tier%202%20-%20Multi-Step%20Attacks%20and%20Privilege%20Escalation/Vaccine.md) |
 | Oopsie | Very Easy | [View](Starting%20Point/Tier%202%20-%20Multi-Step%20Attacks%20and%20Privilege%20Escalation/Oopsie.md) |
 | Archetype | Very Easy | [View](Starting%20Point/Tier%202%20-%20Multi-Step%20Attacks%20and%20Privilege%20Escalation/Archetype.md) |
+| Unified | Very Easy | [View](Starting%20Point/Tier%202%20-%20Multi-Step%20Attacks%20and%20Privilege%20Escalation/Unified.md) |
 
 ---
 

