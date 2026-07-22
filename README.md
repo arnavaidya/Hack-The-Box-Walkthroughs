@@ -51,7 +51,7 @@ All techniques demonstrated were performed in authorized environments. Do not at
 
 | Machine     | Difficulty | Writeup                                                                                      |
 | ----------- | ---------- | -------------------------------------------------------------------------------------------- |
-| Connected | Easy | [View] |
+| Connected | Easy | [View](Connected.md) |
 
 
 ## Goals
