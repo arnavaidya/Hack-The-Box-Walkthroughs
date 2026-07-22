@@ -47,6 +47,13 @@ All techniques demonstrated were performed in authorized environments. Do not at
 
 ---
 
+## Machines
+
+| Machine     | Difficulty | Writeup                                                                                      |
+| ----------- | ---------- | -------------------------------------------------------------------------------------------- |
+| Connected | Easy | [View] |
+
+
 ## Goals
 
 * Document learning progress through HTB.
